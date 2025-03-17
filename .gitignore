@@ -18,9 +18,6 @@ tmp/*
 # Log files
 *.log
 
-# Results directory (optional, uncomment if you want to exclude results)
-# results/
-
 # IDE files
 .idea/
 .vscode/

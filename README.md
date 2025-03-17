@@ -150,3 +150,4 @@ FROM backtest.trades
 GROUP BY strategy, symbol
 ORDER BY win_rate DESC
 ``` 
+``` 
